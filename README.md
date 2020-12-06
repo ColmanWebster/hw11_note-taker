@@ -1,6 +1,6 @@
 # Unit 11 Express Homework: Note Taker
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40hoffman1200-orange)
+![GitHub license](https://img.shields.io/badge/Made%20by-%ColmanWebster-orange)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
@@ -24,6 +24,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 For users that need to keep track of a lot of information, it's easy to forget or be unable to recall something important. Being able to take persistent notes allows users to have written information available when needed.
 
 ## Repository
-- [Heroku App](https://mighty-sands-70355.herokuapp.com/)
-- [Project Repo](https://github.com/hoffman1200/Homework-11)
-- [GitHub](https://github.com/hoffman1200)
+- [Heroku App](https://note-taker-cw.herokuapp.com/)
+- [Project Repo](https://github.com/ColmanWebster/hw11_note-taker)
+- [GitHub](https://github.com/ColmanWebster)
